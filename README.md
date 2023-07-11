@@ -2,7 +2,7 @@
 - I am a Senior Full Stack Developer
 - 👀 I’m interested in Linux, AWS Cloud services integration ,Lambda,API Gateway,Kinesis,QLDB,RDS,EC2,ECS,Cloudformation .
 - I also love PHP and especially the Laravel framework .
-- I love Frontend development and especially React and Vue js.
+- I love Frontend development and especially React and Vue js and Next js.
 - I like working with microservices architecture ,Kubernetes and Docker.
 - Backend I love Node js , Javascript Typescript and learning Python .
 - 🌱 I’m currently learning TerraForm,GrapQL and Python and preparing for my exam :AWS Certified Solutions Architect - Associate: AWS Certified Solutions Architect
