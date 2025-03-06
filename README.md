@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Joe de Wet
+  
 With extensive experience as a Senior Fullstack Web Developer, I specialize in delivering robust, scalable applications across both client and server sides. Over the years, I have honed my skills in JavaScript, TypeScript, Node.js, React, Vue.js, Angular,PHP and C# to create seamless, responsive, and efficient web solutions that meet business and user needs.
 
 I have successfully implemented enhancements that harmonize content delivery from a Strapi headless CMS, optimized for Vercel deployment. My expertise in cloud integration and DevOps, combined with my proficiency in CI/CD, underscores a mission to craft user-centric solutions that drive digital innovation and customer satisfaction.
@@ -19,8 +20,8 @@ Scalable Web Solutions: Successfully led and delivered projects involving comple
 
 Continuous Innovation: I am passionate about learning and applying the latest technologies and design patterns, allowing me to drive innovation and adapt to industry advancements effectively.
 
-- Portfolio https://joedewet.netlify.app/
-- 📫 How to reach me email :j898wdet@protonmail.com
-- LINKEDIN : https://www.linkedin.com/in/joeidewet/
+- Portfolio                    :  https://joedewet.netlify.app/
+- 📫 How to reach me email    :  j898wdet@protonmail.com
+- LINKEDIN                     : https://www.linkedin.com/in/joeidewet/
 
 
